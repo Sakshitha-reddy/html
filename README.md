@@ -19,7 +19,7 @@ It is mainly created for:
 - HTML Entities
 - Page Structure
 
-## Technologies Used
+## Technologies Used Are
 - HTML
 
 ## About
