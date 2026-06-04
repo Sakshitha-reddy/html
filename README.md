@@ -1,4 +1,4 @@
-# HTML Practice Repository:
+# HTML Practice Repository
 
 This repository contains the HTML concepts, notes, practice files, and exercises that I learned during my HTML learning journey.
 
